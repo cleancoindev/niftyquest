@@ -53,3 +53,8 @@ In `assets/maps/`, you can find `phaserquest_map.tmx`, which is the Tiled file o
 ## Donate
 
 You can support this initiative by supporting Rassmus character on [Tok'n'talk](https://tokntalk.club/ethereum:0x71c118b00759b0851785642541ceb0f4ceea0bd5:1732/supporters)
+
+## NiftyQuest Token Airdrops
+
+I'll be Airdropping NiftyQuest Tokens (NQT) to Rassmus supporters via Tok'n'talk [Supporters Page](https://tokntalk.club/ethereum:0x71c118b00759b0851785642541ceb0f4ceea0bd5:1732/supporters)
+Exact schedule of airdrops is TBD.
