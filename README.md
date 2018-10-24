@@ -1,6 +1,6 @@
-# phaserquest
+# NiftyQuest
 
-Phaser Quest is a reproduction of Mozilla's [Browserquest](http://browserquest.mozilla.org/) using the following tools:
+Fork of [Phaser Quest](https://github.com/Jerenaux/phaserquest) using NFT as charaters and other tokens inside game play.
 - The [Phaser](https://phaser.io/) framework for the client 
 - [Socket.io](http://socket.io/) and [Node.js](https://nodejs.org/en/) for the server and client-server communication
 
